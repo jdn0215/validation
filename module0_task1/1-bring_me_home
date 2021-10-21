@@ -1,2 +1,3 @@
-cd /root
+#!/bin/bash
+cd ~
 pwd
