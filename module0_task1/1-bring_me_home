@@ -1,4 +1,2 @@
+cd /root
 pwd
-echo $HOME
-source ./1-bring_me_home
-/home/devops
