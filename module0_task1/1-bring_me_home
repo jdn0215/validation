@@ -1,4 +1,1 @@
-@Echo Off
-echo /root
-@Echo On
-pwd
+cd /root
