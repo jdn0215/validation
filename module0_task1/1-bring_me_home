@@ -1,1 +1,2 @@
-cd /root
+cd $HOME
+pwd
